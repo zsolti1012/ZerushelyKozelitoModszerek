@@ -1,0 +1,37 @@
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe.config
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.pdb
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.dll
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.pdb
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.csprojResolveAssemblyReference.cache
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.exe
+F:\Suli\Nummat\Új mappa\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.pdb
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe.config
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.pdb
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.dll
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.pdb
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.csproj.CopyComplete
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.exe
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.pdb
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\ZeroBeat_test\ZeroBeat_test\bin\Debug\AutoDiff.dll
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe.config
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.exe
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.pdb
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.pdb
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\AutoDiff.dll
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.pdb
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.dll
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe.config
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.exe
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\ZeroBeat_test.pdb
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\AutoDiff.dll
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.dll
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\bin\Debug\NummatDLL.pdb
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.csprojAssemblyReference.cache
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.csproj.CopyComplete
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.exe
+H:\Suli\Nummat\függveny_közelit\ZeroBeat_test\ZeroBeat_test\obj\Debug\ZeroBeat_test.pdb

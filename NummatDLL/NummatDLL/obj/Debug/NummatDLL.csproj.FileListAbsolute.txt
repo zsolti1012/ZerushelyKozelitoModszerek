@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Nummat\NummatDLL\NummatDLL\bin\Debug\NummatDLL.dll
+C:\Users\user\Desktop\Nummat\NummatDLL\NummatDLL\bin\Debug\NummatDLL.pdb
+C:\Users\user\Desktop\Nummat\NummatDLL\NummatDLL\obj\Debug\NummatDLL.dll
+C:\Users\user\Desktop\Nummat\NummatDLL\NummatDLL\obj\Debug\NummatDLL.pdb
+F:\Suli\Nummat\intervallum_felezo\NummatDLL\NummatDLL\bin\Debug\NummatDLL.dll
+F:\Suli\Nummat\intervallum_felezo\NummatDLL\NummatDLL\bin\Debug\NummatDLL.pdb
+F:\Suli\Nummat\intervallum_felezo\NummatDLL\NummatDLL\obj\Debug\NummatDLL.csprojResolveAssemblyReference.cache
+F:\Suli\Nummat\intervallum_felezo\NummatDLL\NummatDLL\obj\Debug\NummatDLL.dll
+F:\Suli\Nummat\intervallum_felezo\NummatDLL\NummatDLL\obj\Debug\NummatDLL.pdb
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\NummatDLL\NummatDLL\bin\Debug\NummatDLL.dll
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\NummatDLL\NummatDLL\bin\Debug\NummatDLL.pdb
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\NummatDLL\NummatDLL\obj\Debug\NummatDLL.dll
+C:\Users\O.Zsolt\Desktop\intervallum_felezo\NummatDLL\NummatDLL\obj\Debug\NummatDLL.pdb
+C:\Users\user\Desktop\függveny_közelit\NummatDLL\NummatDLL\bin\Debug\NummatDLL.dll
+C:\Users\user\Desktop\függveny_közelit\NummatDLL\NummatDLL\bin\Debug\NummatDLL.pdb
+C:\Users\user\Desktop\függveny_közelit\NummatDLL\NummatDLL\obj\Debug\NummatDLL.dll
+C:\Users\user\Desktop\függveny_közelit\NummatDLL\NummatDLL\obj\Debug\NummatDLL.pdb
